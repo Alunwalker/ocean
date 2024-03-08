@@ -1,0 +1,9 @@
+G:\ning_xue\godotProject\ocean\.mono\temp\bin\Debug\Ocean.dll
+G:\ning_xue\godotProject\ocean\.mono\temp\bin\Debug\Ocean.pdb
+G:\ning_xue\godotProject\ocean\.mono\temp\obj\Debug\Ocean.csproj.AssemblyReference.cache
+G:\ning_xue\godotProject\ocean\.mono\temp\obj\Debug\Ocean.GeneratedMSBuildEditorConfig.editorconfig
+G:\ning_xue\godotProject\ocean\.mono\temp\obj\Debug\Ocean.AssemblyInfoInputs.cache
+G:\ning_xue\godotProject\ocean\.mono\temp\obj\Debug\Ocean.AssemblyInfo.cs
+G:\ning_xue\godotProject\ocean\.mono\temp\obj\Debug\Ocean.csproj.CoreCompileInputs.cache
+G:\ning_xue\godotProject\ocean\.mono\temp\obj\Debug\Ocean.dll
+G:\ning_xue\godotProject\ocean\.mono\temp\obj\Debug\Ocean.pdb

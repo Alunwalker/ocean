@@ -1,0 +1,2 @@
+﻿14083
+G:/ning_xue/godot/bin/godot.windows.tools.64.mono.exe
