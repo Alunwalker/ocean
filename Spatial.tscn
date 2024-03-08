@@ -60,11 +60,13 @@ size = Vector2( 50, 50 )
 [sub_resource type="ShaderMaterial" id=15]
 shader = ExtResource( 6 )
 shader_param/size = Vector2( 256, 256 )
-shader_param/grid_size = Vector2( 64, 64 )
 shader_param/_IsTilable = true
-shader_param/_Evolution = null
-shader_param/_RandomSeed = 2.327
-shader_param/v1 = null
+shader_param/_Evolution = Vector3( 0.209, 0, 0 )
+shader_param/_FBMIteration = 1
+shader_param/_Frequency = 4.0
+shader_param/_RandomSeed = 0.542
+shader_param/uv_scale = 1.0
+shader_param/v1 = 0.173
 shader_param/v2 = null
 shader_param/v3 = null
 
@@ -110,8 +112,6 @@ size = Vector2( 256, 256 )
 material = SubResource( 15 )
 anchor_right = 1.0
 anchor_bottom = 1.0
-margin_right = 272.0
-margin_bottom = 244.0
 script = ExtResource( 7 )
 __meta__ = {
 "_edit_use_anchors_": false
